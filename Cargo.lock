@@ -926,7 +926,7 @@ dependencies = [
 [[package]]
 name = "linkcheck"
 version = "0.4.1-alpha.0"
-source = "git+https://github.com/ankitects/linkcheck.git?rev=2f20798ce521cc594d510d4e417e76d5eac04d4b#2f20798ce521cc594d510d4e417e76d5eac04d4b"
+source = "git+https://github.com/abdnh/linkcheck.git?rev=5db720118a0f6c432f7f41151fd23f130c5a63a6#5db720118a0f6c432f7f41151fd23f130c5a63a6"
 dependencies = [
  "bytes",
  "codespan",
@@ -937,6 +937,7 @@ dependencies = [
  "lazy_static",
  "linkify",
  "log",
+ "percent-encoding",
  "pulldown-cmark 0.8.0",
  "regex",
  "reqwest",
