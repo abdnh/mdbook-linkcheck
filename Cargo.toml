@@ -21,7 +21,7 @@ codespan-reporting = "0.11"
 dunce = "1.0.0"
 env_logger = "0.8"
 http = "0.2"
-linkcheck = { git = "https://github.com/abdnh/linkcheck.git", rev = "5db720118a0f6c432f7f41151fd23f130c5a63a6" }
+linkcheck = { git = "https://github.com/abdnh/linkcheck.git", rev = "53eed057521fb20fc8f481a9ee942cfee2461d5f" }
 log = "0.4"
 mdbook = { version = "0.4", default-features = false }
 pulldown-cmark = "0.8.0"
