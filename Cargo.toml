@@ -21,10 +21,10 @@ codespan-reporting = "0.11"
 dunce = "1.0.0"
 env_logger = "0.8"
 http = "0.2"
-linkcheck = { git = "https://github.com/abdnh/linkcheck.git", rev = "53eed057521fb20fc8f481a9ee942cfee2461d5f" }
+linkcheck = { git = "https://github.com/abdnh/linkcheck.git", rev = "0ad71cbacb27643e0ded53cd13515607ea9af223" }
 log = "0.4"
 mdbook = { version = "0.4", default-features = false }
-pulldown-cmark = "0.8.0"
+pulldown-cmark = "0.9"
 regex = "1.0"
 reqwest = { version = "0.11", default-features = false, features = ["native-tls-vendored"]}
 semver = "0.11"

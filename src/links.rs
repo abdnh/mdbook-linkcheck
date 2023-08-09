@@ -37,7 +37,7 @@ where
                 );
 
                 broken_links.borrow_mut().push(IncompleteLink {
-                    reference: broken_link.reference.to_string(),
+                    reference: reference.to_string(),
                     span: Span::new(span.start as u32, span.end as u32),
                     file: file_id,
                 });
